@@ -1,0 +1,13 @@
+---
+content_type: resource
+description: ''
+file: /courses/5-08j-biological-chemistry-ii-spring-2016/4626663_captions.vtt
+file_size: 75357
+file_type: application/x-subrip
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+resourcetype: Other
+title: 3play caption file
+uid: bae28da2-b081-4747-8165-ef97a65fb0a7
+---
